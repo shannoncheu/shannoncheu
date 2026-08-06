@@ -1,25 +1,22 @@
-<h2> Hi, I'm shannoncheu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<div align="center">
 
-<p><em> 逆 水 行 舟 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 不 进 则 退 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001a08,100:00ff41&height=210&section=header&text=shannoncheu&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20ONLINE&descAlignY=60&descSize=14" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=620&lines=Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit.;shannoncheu" alt="terminal sequence" />
 
-```javascript
-const samm = {
-  pronouns: "he" | "him",
-  learning: [Javascript, Lua, Rust, Python, Java],
-  hobbies: [Gaming, Hiking, Cycling, Traveling, Collecting Letters, Watching Movies],
-  tools: ["docker", "node", "git"],
-  Favorite Movies: {
-                        No.1: " Pulp Fiction ",
-                        No.2: " Lucy ",
-                        No.3: " Avatar "
-                      },
- challenge: "Complete a full marathon in under 3 hours 🏃‍♀️"
-}
+```text
+01010011 01001000 01000001 01001110 01001110 01001111 01001110
+
+> boot_sequence .............. complete
+> identity ................... shannoncheu
+> access ..................... granted
+> signal ..................... encrypted
+
+There is no spoon.
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<sub>█▓▒░ CONNECTION ESTABLISHED ░▒▓█</sub>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,55:001a08,100:000000&height=120&section=footer" />
+
+</div>
