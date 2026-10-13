@@ -17,5 +17,11 @@ Python developer building practical tools, bots and themes.
 
 ### Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=shannoncheu&show_icons=true&theme=minimal&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shannoncheu&layout=compact&theme=minimal&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shannoncheu&show_icons=true&theme=tokyonight&hide_border=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shannoncheu&show_icons=true&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shannoncheu&layout=compact&theme=tokyonight&hide_border=true">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannoncheu&layout=compact&hide_border=true">
+</picture>
